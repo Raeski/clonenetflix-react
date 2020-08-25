@@ -5,7 +5,7 @@
 
 
 # Sobre o Projeto
-<p align="justify"> Clone do front-end desktop da Netflix utilizando ReactJs, nesse projeto é consumido a API do site The Movie Database (TMDB) para apresentação dos filmes e séries </p>
+<p align="justify"> Clone do front-end(site) da Netflix utilizando ReactJs, nesse projeto é consumido a API do site The Movie Database (TMDB) para apresentação dos filmes e séries </p>
 
 > Status do Projeto: Em desenvolvimento :warning:
 
