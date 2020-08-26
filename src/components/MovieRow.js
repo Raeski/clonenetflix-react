@@ -11,7 +11,7 @@ export default ({title, items}) => {
       <div className="movieRow--left">
         <NavigateBeforeIcon style={{fontSize: 50}} />
       </div>
-      <div className="movieRow--left">
+      <div className="movieRow--right">
         <NavigateNextIcon style={{fontSize: 50}} />
       </div>
 
