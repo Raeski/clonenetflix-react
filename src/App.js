@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/accessible-emoji */
 import React, { useEffect, useState} from 'react';
 import Tmdb from './Tmdb'
 import MovieRow from './components/MovieRow'
@@ -58,7 +59,7 @@ export default () => {
         ))}
       </section>
       <footer>
-        Feito por Gustavo Raeski 🚀 <br/>
+        Feito por Gustavo Raeski <span role="img" aria-label="rocket">🚀</span> <br/>
         Direitos de imagem para Netflix<br/>
         Dados pegos do site Themoviedb.org
       </footer>
