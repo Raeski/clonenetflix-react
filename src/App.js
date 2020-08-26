@@ -63,6 +63,12 @@ export default () => {
         Direitos de imagem para Netflix<br/>
         Dados pegos do site Themoviedb.org
       </footer>
+
+      {movieList.length <= 0 &&
+      <div className="loading">
+        <img src="https://media1.tenor.com/images/1fe36998add400322db6aae8612d3fcf/tenor.gif?itemid=15122473" alt="Carregando"/>
+      </div>
+      }
     </div>
   )
 }
