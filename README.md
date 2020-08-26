@@ -5,7 +5,9 @@
 
 ![netflixweb](https://user-images.githubusercontent.com/46768410/91331364-0e117f00-e7a1-11ea-9338-4d368940313d.png)
 
-<img src="https://user-images.githubusercontent.com/46768410/91331354-0ce05200-e7a1-11ea-8f54-f259a6d6abd1.png" alt="netflix-cellphone" align-items="center"  width="300" height="500"         />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46768410/91331354-0ce05200-e7a1-11ea-8f54-f259a6d6abd1.png" width="300" height="500" />
+</p>
 
 
 # Sobre o Projeto
