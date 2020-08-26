@@ -1,11 +1,11 @@
-<p align="center">
-  <a href="https://fontmeme.com/netflix-font/"><img src="https://fontmeme.com/permalink/200825/a753a2772cccff2ac042e067f9b8ad40.png" alt="netflix-font" border="0"></a>
+<p align-items="center">
+  <a href="https://www.linkedin.com/in/gustavo-raeski"><img src="https://fontmeme.com/permalink/200826/a753a2772cccff2ac042e067f9b8ad40.png" alt="netflix"/> border="0"></a>
 </p>
 
 
 
 # Sobre o Projeto
-<p align="justify"> Clone do front-end(site) da Netflix utilizando ReactJs, nesse projeto é consumido a API do site The Movie Database (TMDB) para apresentação dos filmes e séries </p>
+<p align-text="justify"> Clone do front-end(site) da Netflix utilizando ReactJs, nesse projeto é consumido a API do site The Movie Database (TMDB) para apresentação dos filmes e séries </p>
 
 > Status do Projeto: Em desenvolvimento :warning:
 
@@ -15,6 +15,7 @@
  * CSS
  * JavaScript
  * ReactJs
+ * Material UI
  * API TMDB
 
 ### :construction_worker: Instalação
